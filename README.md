@@ -34,6 +34,7 @@ float[][] velocities = {{0,-3e-3},
                         {0,3e-3}};
 float[] masses = {88290000, 88100000};
 ```
+![cbc](https://i.giphy.com/media/fN7tLTOGpba457cFDe/giphy.webp)
 
 ### A sun-planet-moon system in a stable orbit
 ```
