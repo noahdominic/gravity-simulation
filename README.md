@@ -47,6 +47,7 @@ float[][] velocities = {{0,-1e-6},
                         {0,6e-4}};
 float[] masses = {882900, 8100, 100};
 ```
+![spm](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzZjliYjE3ZWMyYzBmNTdiMTkwMzBhZjY2NTIyZjcyNjUyNDg5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4K8krP48RJaNSBYsva/giphy.gif)
 
 ### A planet losing its moon
 ```
@@ -59,6 +60,7 @@ float[][] velocities = {{0,-1e-6},
                         {0,5.5e-4}};
 float[] masses = {882900, 8100, 100};
 ```
+![unstbl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzZTc2NDcwZDYwOWU3Nzk0NjFjZmI3Y2RjNDU3MDU3ZDY1NzFmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bNC9Z2DH8fKj5t5890/giphy.gif)
 
 ## Acknowledgements
 
