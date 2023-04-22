@@ -2,6 +2,8 @@
 
 This project simulates the motion of multiple planets in space under Newtonian gravitational interaction.  Each planet is represented by a circle on the screen, and the user can observe how the planets interact with each other over time.
 
+This will simulate planetary motion using only Newtonian mechanics and a general form of Newton's theory of gravitation $F = k \frac{m_1 m_2}{r^2}$ to determine positions at every timestep.
+
 ## Getting started
 
 To run this program, you will need to have [Processing](https://processing.org/download/) installed on your machine.  Once Processing is installed, simply open the `grav_sim.pde` file in the Processing IDE and click the "play" button to run the simulation.
